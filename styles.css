@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 120vh;
+    background: url("https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2018/10/falcon-rocket-spacex-timelapse-launch.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    
+}
